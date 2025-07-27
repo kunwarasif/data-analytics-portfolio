@@ -52,6 +52,6 @@ Feel free to explore each project and provide feedback or suggestions.
 
 For inquiries, collaborations, or to learn more about my work, please connect with me:
 
-- Email: your.email@example.com
-- LinkedIn: [Asif's LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email: kunwarasif1@example.com
+- LinkedIn: [Asif's LinkedIn](https://www.linkedin.com/in/mohdasif-/)
 - GitHub: [@kunwarasif](https://github.com/kunwarasif)
