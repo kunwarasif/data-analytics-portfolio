@@ -47,3 +47,11 @@ The `requirements.txt` file lists the Python libraries used across the projects.
 ---
 
 Feel free to explore each project and provide feedback or suggestions.
+
+## Contact
+
+For inquiries, collaborations, or to learn more about my work, please connect with me:
+
+- Email: your.email@example.com
+- LinkedIn: [Asif's LinkedIn](https://www.linkedin.com/in/yourprofile)
+- GitHub: [@kunwarasif](https://github.com/kunwarasif)
