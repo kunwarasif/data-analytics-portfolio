@@ -28,3 +28,12 @@ Summarize key findings such as best-selling products, seasonal peaks, and custom
 ## Next Steps
 
 Extend the analysis by incorporating marketing spend, promotional periods, or cross-selling opportunities.
+
+
+## Example Visualizations
+
+Below are example charts from the sales analysis:
+
+![Monthly Sales Trend](../assets/images/monthly_sales_trend.png)
+
+![Category Sales](../assets/images/category_sales.png)
